@@ -7,7 +7,7 @@ const Layout = ({}) => {
     return (
         <div>
             <Navbar />
-            <div className="container mx-auto h-100px p-100">
+            <div className="container mx-auto h-100px m-100">
                 <Maps />
             </div>
             <Contact />
